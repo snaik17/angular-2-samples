@@ -1,5 +1,5 @@
 {
-  "name": "angular2-poc",
+  "name": "angular2-webpack-starter",
   "version": "0.0.1",
   "authors": [
     "Torgeir Helgevold <torgeirh@hotmail.com>"
@@ -13,7 +13,7 @@
     "tests"
   ],
   "dependencies": {
-    "angular": "~1.4.7",
+    "angular": "~2.*.*",
     "bootstrap": "~3.3.4",
     "jquery": "~2.1.4",
     "jquery-ui": "~1.11.4",
